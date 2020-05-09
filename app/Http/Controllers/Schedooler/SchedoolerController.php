@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Todoo;
+namespace App\Http\Controllers\Schedooler;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
